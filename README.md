@@ -1,5 +1,5 @@
 # kulaizki
- An Aspiring Software Engineer, Game Developer, and Web Developer
+ An aspiring Software Engineer, Game Developer, and Web Developer
 
 💬 About
 

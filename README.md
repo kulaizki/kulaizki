@@ -1,11 +1,11 @@
 # kulaizki
- An aspiring Software Engineer, Game Developer, and Web Developer
+ An aspiring Software Engineer
 
 💬 About
 
-• Learning: Computer Science | Web Development | Game Development
+🔥 Learning: Computer Science | Web Development | DSA
 
-• Interests: Programming, Music, Crypto, and Dota 2
+🔥 Interests: Programming, Music, Crypto, and Dota 2
 <!--
 **kulaizki/kulaizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 # kulaizki
 
-<h4>💬 About</h4>
+<h3>💬 About</h3>
 
 <h4>🔥 Learning:</h4> Computer Science | Web Development | Data Structures and Algorithms
 
@@ -8,7 +8,7 @@
 
 <hr>
 
-<h4>⭐ Stats</h4>
+<h3>⭐ Stats</h3>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kulaizki&show_icons=true&count_private=true&bg_color=000000&text_color=15ff00&icon_color=e3e3de&title_color=15ff00)
 

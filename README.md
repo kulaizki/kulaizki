@@ -10,9 +10,9 @@
 
 <h3>⭐ Stats</h3>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kulaizki&show_icons=true&count_private=true&bg_color=000000&text_color=15ff00&icon_color=e3e3de&title_color=15ff00)
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=midnight-purple&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=15ff00&bg_color=000000&text_color=15ff00)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=9643e4&bg_color=000000&text_color=9643e4)
 
 ![Codewars](https://github.r2v.ch/codewars?user=kulaizki&stroke=red&title_color=15ff00)
 

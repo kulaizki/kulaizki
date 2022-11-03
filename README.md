@@ -4,7 +4,7 @@
 
 <h4>🔥 Learning:</h4> Computer Science | Web Development | Data Structures and Algorithms
 
-<h4>🔥 Interests:</h4> Programming, Music, Crypto, and Dota 2
+<h4>🔥 Interests:</h4> Programming, Piano, Crypto, Chess and Dota 2
 
 <hr>
 

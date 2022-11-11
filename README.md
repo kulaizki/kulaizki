@@ -6,7 +6,7 @@
 ### <pre>👨‍💻 Computer Science  |  🕸 Full-stack Development  |  🧪 Data Structures and Algorithms</pre>
 
 ### 🔥 Interests:
-### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Trading  |  🎮 Dota 2</pre>
+### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Trading  |  🧠 Psychology  |  👾 Dota 2</pre>
 
 <p align="left">
 </p>

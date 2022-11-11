@@ -23,7 +23,11 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=f0f5f2&bg_color=262729&text_color=bb3500&border_color=e30506&text_size=50px)
 
-![Codewars](https://github.r2v.ch/codewars?user=kulaizki&stroke=red&title_color=15ff00)
+![Codewars](https://www.codewars.com/users/kulaizki/badges/large)
+
+<!--![Codewars](https://github.r2v.ch/codewars?user=kulaizki&stroke=red&title_color=15ff00)-->
+
+
 
 
 

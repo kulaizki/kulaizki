@@ -3,7 +3,7 @@
 ## 💬 About
 
 ### ⚡ Learning:
-### <pre>👨‍💻 Computer Science  |  🕸 Full-stack Development  |  🧪 Data Structures and Algorithms</pre>
+### <pre>👨‍💻 Computer Science  |  🧪 Data Structures and Algorithms  | 🕸 Full-stack Development </pre>
 
 ### ⚡ Interests:
 ### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Trading  |  🧠 Psychology  |  👾 Dota 2</pre>

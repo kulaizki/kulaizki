@@ -3,7 +3,7 @@
 ## 💬 About
 
 ### ⚡ Learning:
-### <pre>👨‍💻 Computer Science  |  🧪 Data Structures and Algorithms  | 🕸 Full-stack Development </pre>
+### <pre>👨‍💻 Computer Science  |  🧪 Competitive Programming  | 🕸 Full-stack Development </pre>
 
 ### ⚡ Interests:
 ### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Trading  |  🧠 Psychology  |  👾 Dota 2</pre>
@@ -25,11 +25,4 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=f0f5f2&bg_color=262729&text_color=f0f5f2&border_color=e30506&text_size=50px)
 
-
-
 <!--![Codewars](https://github.r2v.ch/codewars?user=kulaizki&stroke=red&title_color=15ff00)-->
-
-
-
-
-

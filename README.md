@@ -33,8 +33,8 @@
 
 ![Codewars](https://www.codewars.com/users/kulaizki/badges/large)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kulaizki&theme=aura_dark&show_icons=true&count_private=true&border_color=e30506&bg_color=262729&text_color=00ffff&title_color=f0f5f2&icon_color=ffc83d)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kulaizki&theme=aura_dark&show_icons=true&count_private=true&border_color=00ffff&bg_color=262729&text_color=ffffff&title_color=00ffff&icon_color=ffc83d&)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=f0f5f2&bg_color=262729&text_color=f0f5f2&border_color=e30506&text_size=50px)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=00ffff&bg_color=262729&text_color=f0f5f2&border_color=00ffff&text_size=50px)
 
 <!--![Codewars](https://github.r2v.ch/codewars?user=kulaizki&stroke=red&title_color=15ff00)-->

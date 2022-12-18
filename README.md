@@ -3,10 +3,10 @@
 ## 💬 About
 
 ### ⚡ Learning:
-### <pre>👨‍💻  Computer Science  | 🧪 Competitive Programming  | 🔎  Cybersecurity | 🕸  Full-stack Development </pre>
+### <pre>👨‍💻 Computer Science  |  🧪 Competitive Programming  |  🔎 Cybersecurity |  🕸 Full-stack Development </pre>
 
 ### ⚡ Interests:
-### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Trading  |  🧠 Psychology  |  👾 Dota 2</pre>
+### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Trading  |  🧠 Psychology  |  👾 Hacking</pre>
 
 ## 🎩 Languages and Tools:
 
@@ -34,6 +34,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="50" height="50"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="50" height="50"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="vstudio" width="55" height="55"/> </a>
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> </p>

@@ -42,10 +42,10 @@
 
 
 
-<h3>⭐ Stats</h3> <hr &bg_color=0>
+<h3>⭐ Stats</h3> 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> <hr> </p>
 <p align="center"> 
-   <a href="https://www.codewars.com/users/kulaizki" target="_blank"><img src="https://www.codewars.com/users/kulaizki/badges/large"> </a>
-<img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> <hr>
+   <a href="https://www.codewars.com/users/kulaizki" target="_blank"><img src="https://www.codewars.com/users/kulaizki/badges/large"> </a> <hr>
    <img src="https://github-readme-stats.vercel.app/api?username=kulaizki&theme=great-gatsby&show_icons=true&count_private=true&border_color=0">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulaizki&theme=great-gatsby&border_color=fab000">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=fab000&bg_color=000000&text_color=f0f5f2&border_color=0&text_size=50px"> 

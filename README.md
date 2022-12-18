@@ -1,4 +1,5 @@
-# kulaizki
+# kulaizki 
+
 
 ## 💬 About
 
@@ -39,13 +40,15 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="vstudio" width="55" height="55"/> </a>
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> </p>
 
-<h3>⭐ Stats</h3>
+
+<h3>⭐ Stats</h3> <hr &bg_color=0>
 <p align="center"> 
-   <a href="https://www.codewars.com/users/kulaizki" target="_blank"><img src="https://www.codewars.com/users/kulaizki/badges/large"> </a> <hr>
+   <a href="https://www.codewars.com/users/kulaizki" target="_blank"><img src="https://www.codewars.com/users/kulaizki/badges/large"> </a>
+<img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> <hr>
    <img src="https://github-readme-stats.vercel.app/api?username=kulaizki&theme=great-gatsby&show_icons=true&count_private=true&border_color=0">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulaizki&theme=great-gatsby&border_color=fab000">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=fab000&bg_color=000000&text_color=f0f5f2&border_color=0&text_size=50px"> 
 </p>
+
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=fab000&bg_color=000000&text_color=f0f5f2&border_color=fab000&text_size=50px) -->

@@ -3,7 +3,7 @@
 ## 💬 About
 
 ### ⚡ Learning:
-### <pre>👨‍💻 Computer Science  |  🧪 Competitive Programming  |  🔎 Cybersecurity |  🕸 Full-stack Development </pre>
+### <pre>👨‍💻 Computer Science  | 🧪 Competitive Programming  | 🐉 Kali Linux | 🕸 Full-stack Development </pre>
 
 ### ⚡ Interests:
 ### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Trading  |  🧠 Psychology  |  👾 Hacking</pre>

@@ -3,7 +3,7 @@
 ## 💬 About
 
 ### ⚡ Learning:
-### <pre>👨‍💻 Computer Science  | 🧪 Competitive Programming  | 🔎 Cybersecurity | 🕸 Full-stack Development </pre>
+### <pre>👨‍💻  Computer Science  | 🧪 Competitive Programming  | 🔎  Cybersecurity | 🕸  Full-stack Development </pre>
 
 ### ⚡ Interests:
 ### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Trading  |  🧠 Psychology  |  👾 Dota 2</pre>
@@ -36,20 +36,14 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
 <hr>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> </p>
 
 <h3>⭐ Stats</h3>
 
 ![Codewars](https://www.codewars.com/users/kulaizki/badges/large)
 
-<!--![Github stats](https://github-readme-stats.vercel.app/api?username=kulaizki&theme=aura_dark&show_icons=true&count_private=true&border_color=00ffff&bg_color=262729&text_color=ffffff&title_color=00ffff&icon_color=ffc83d)
-<-->
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kulaizki&theme=great-gatsby&show_icons=true&count_private=true&border_color=fab000)
 
 ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=kulaizki&theme=great-gatsby&border_color=fab000)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=fab000&bg_color=000000&text_color=f0f5f2&border_color=fab000&text_size=50px)
-
-<!--![Codewars](https://github.r2v.ch/codewars?user=kulaizki&stroke=red&title_color=15ff00)-->

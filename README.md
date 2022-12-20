@@ -1,5 +1,6 @@
-# kulaizki 
-
+<h1 align="center"> 
+   Greetings 👋, I'm Fitz
+</h1>
 
 ## 💬 About
 

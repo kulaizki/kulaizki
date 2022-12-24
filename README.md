@@ -8,7 +8,7 @@
 ### <pre>👨‍💻 Computer Science  | 🧪 Competitive Programming  | 🐉 Kali Linux | 🕸 Full-stack Development </pre>
 
 ### ⚡ Interests:
-### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Trading  |  🧠 Psychology  |  👾 Hacking</pre>
+### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Business  |  🧠 Psychology  |  👾 Hacking</pre>
 
 ## 🎩 Languages, Databases, and Tools:
 

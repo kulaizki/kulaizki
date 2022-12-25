@@ -1,14 +1,18 @@
 <h1 align="center"> 
-   Greetings 👋, I'm Fitzsixto.
+   Greetings 👋, I'm Fitzsixto
 </h1>
 
+
+
 ## 💬 About
+
+### 📧 Connect with me: fitzsixto.work@gmail.com <hr>
 
 ### ⚡ Learning:
 ### <pre>👨‍💻 Computer Science  | 🧪 Competitive Programming  | 🐉 Kali Linux | 🕸 Full-stack Development </pre>
 
 ### ⚡ Interests:
-### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Business  |  🧠 Psychology  |  👾 Hacking</pre>
+### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Business  |  🧠 Psychology  |  👾 Hacking</pre> <hr>
 
 ## 🎩 Languages, Databases, and Tools:
 

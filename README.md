@@ -45,6 +45,7 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="vstudio" width="55" height="55"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="linux" width="50" height="50"/> </a> 
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="canva" width="50" height="50"/> </a>
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="50" height="50"/> </a>
 <hr>
 
 <h3>⭐ Stats</h3> 

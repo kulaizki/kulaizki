@@ -4,7 +4,7 @@
 
 
 
-##  About:
+## 💬 About
 
 ### 📧 Connect with me: fitzsixto.work@gmail.com <hr>
 

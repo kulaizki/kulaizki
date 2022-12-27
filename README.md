@@ -2,8 +2,6 @@
    Greetings 👋, I'm Fitzsixto
 </h1>
 
-
-
 ## 💬 About
 
 ### 📧 Connect with me: fitzsixto.work@gmail.com <hr>
@@ -48,8 +46,6 @@
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="canva" width="50" height="50"/> </a>
 <hr>
 
-
-
 <h3>⭐ Stats</h3> 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> <hr> </p>
 <p align="center"> 
@@ -59,5 +55,3 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulaizki&theme=great-gatsby&border_color=fab000">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=fab000&bg_color=000000&text_color=f0f5f2&border_color=0&text_size=50px"> 
 </p>
-
-<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=fab000&bg_color=000000&text_color=f0f5f2&border_color=fab000&text_size=50px) -->

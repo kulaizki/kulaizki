@@ -48,7 +48,7 @@
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="50" height="50"/> </a>
 <hr>
 
-<h3>⭐ Stats</h3> 
+### ⭐ Stats
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> <hr> </p>
 <p align="center"> 
    <a href="https://www.codewars.com/users/kulaizki" target="_blank"><img src="https://www.codewars.com/users/kulaizki/badges/large"> </a> <hr></p>

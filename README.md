@@ -12,8 +12,6 @@
 ### ⚡ Interests:
 ### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Business  |  🧠 Psychology  |  👾 Hacking</pre> <hr>
 
-## 🎩 Languages, Databases, and Tools:
-
 ### ♦ Languages
 
 <p align="left"> 

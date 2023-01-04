@@ -51,7 +51,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> <hr>
 </p>
 <p align="center"> 
-   <a href="https://www.codewars.com/users/kulaizki" target="_blank"><img src="https://www.codewars.com/users/kulaizki/badges/large"> </a> <hr></p>
+   <a href="https://www.codewars.com/users/kulaizki" target="_blank"><img src="https://www.codewars.com/users/kulaizki/badges/large"> </a> <hr>
+   </p>
 <p align="center">  
    <img src="https://github-readme-stats.vercel.app/api?username=kulaizki&theme=great-gatsby&show_icons=true&count_private=true&border_color=0">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulaizki&theme=great-gatsby&border_color=fab000">

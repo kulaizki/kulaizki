@@ -1,5 +1,5 @@
 <h1 align="center"> 
-   Greetings 👋, I'm Fitz
+   Greetings 👋, I'm Fitz 
 </h1>
 
 ## 💬 About
@@ -48,7 +48,8 @@
 <hr>
 
 ### ⭐ Stats
-<p align="left"><img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> <hr> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> <hr>
+</p>
 <p align="center"> 
    <a href="https://www.codewars.com/users/kulaizki" target="_blank"><img src="https://www.codewars.com/users/kulaizki/badges/large"> </a> <hr></p>
 <p align="center">  

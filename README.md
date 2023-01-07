@@ -1,5 +1,5 @@
 <h1 align="center"> 
-   Greetings 👋, I'm Fitz
+   Greetings 👋, I'm Fitzz
 </h1>
 
 ## 💬 About

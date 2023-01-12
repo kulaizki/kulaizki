@@ -7,7 +7,7 @@
 ### 📧 Connect with me: fitzsixto.work@gmail.com <hr>
 
 ### ⚡ Learning:
-### <pre>👨‍💻 Computer Science  | 🧪 Competitive Programming  | 🐉 Kali Linux | 🕸 Back-end Development </pre>
+### <pre>👨‍💻 Computer Science  | 🧪 Competitive Programming  | 🔎 Cybersecurity | 🕸 Back-end Development </pre>
 
 ### ⚡ Interests:
 ### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Business  |  🧠 Psychology  |  👾 Hacking</pre> <hr>

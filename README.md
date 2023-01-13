@@ -10,7 +10,7 @@
 ### <pre>👨‍💻 Computer Science  | 🧪 Data Structures and Algorithms  |  🕸 Full-stack Development</pre>
 
 ### ⚡ Interests:
-### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Business  |  🧠 Psychology  |  👾 Hacking</pre> <hr>
+### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Business  |  🧠 Psychology  |  👾 Learning</pre> <hr>
 
 ### ♦ Languages:
 

@@ -7,10 +7,10 @@
 ### 📧 Connect with me: fitzsixto.work@gmail.com <hr>
 
 ### ⚡ Learning:
-### <pre>👨‍💻 Computer Science  | 🧪 Data Structures and Algorithms  |  🕸 Full-stack Development</pre>
+### <pre>💻 Computer Science  | 🧪 Data Structures and Algorithms  |  🕸 Full-stack Development</pre>
 
 ### ⚡ Interests:
-### <pre>💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Business  |  🧠 Cognition  |  👾 Learning</pre> <hr>
+### <pre>👨‍💻 Programming  |  ♟ Chess  |  🎹 Piano  |  📈 Business  |  🧠 Cognition  |  👾 Learning</pre> <hr>
 
 ### ♦ Languages:
 

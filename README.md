@@ -56,7 +56,7 @@
    <img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> <hr>
 </p>
 <p align="center"> 
-   <img src="https://leetcard.jacoblin.cool/kulaizki?border=0&radius=20"><hr>
+   <img src="https://leetcard.jacoblin.cool/kulaizki?border=0&radius=20&theme=light"><hr>
 </p>
 <p align="center">  
    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kulaizki&theme=great-gatsby&show_icons=true&border_color=0">

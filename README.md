@@ -2,6 +2,9 @@
    Greetings 👋, I'm Fitz
 </h1>
 
+![binary](https://user-images.githubusercontent.com/91787757/215253047-b499e15d-0acc-4159-97be-08547586f4b0.gif)
+
+
 ## 💬 About
 
 ### 📧 Connect with me: fitzsixto.work@gmail.com <hr>

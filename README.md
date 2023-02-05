@@ -31,6 +31,7 @@
 
 ### 🔮 Frameworks:
 
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" width="50" height="50"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="60" height="50"/> </a> 
 <hr>
 

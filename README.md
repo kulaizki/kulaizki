@@ -58,17 +58,15 @@
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="kali" width="60" height="60"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a> 
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="canva" width="50" height="50"/> </a>
-
-
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="canva" width="50" height="50"/> </a> <hr>
 
 ### ⭐ Stats
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> <hr>
 </p>
-<p align="center"> 
+<!-- <p align="center"> 
    <img src="https://leetcard.jacoblin.cool/kulaizki?border=0&radius=20&theme=light"><hr>
-</p>
+</p> -->
 <p align="center">  
    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kulaizki&theme=great-gatsby&show_icons=true&border_color=0">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulaizki&theme=great-gatsby&border_color=fab000">

@@ -12,7 +12,7 @@
 ### <pre>          💻 Computer Science | 🧪 Data Structures and Algorithms | 📊 Data Engineering </pre>
 
 ### ⚡ Interests:
-### <pre>       👨‍💻 Competitive Programming  |  ♟ Chess  |  🎹 Music  |  🧠 Cognition  |  👾 Learning</pre> <hr>
+### <pre>      👨‍💻 Competitive Programming  |  ♟ Chess  |  🎹 Music  |  🧠 Cognition  |  👾 Learning</pre> <hr>
 
 ### ♦ Languages:
 

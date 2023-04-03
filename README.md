@@ -65,7 +65,7 @@
 </p>
 <!-- <p align="center"> 
    <img src="https://leetcard.jacoblin.cool/kulaizki?border=0&radius=20&theme=light"><hr>
-</p>  -->
+</p> -->
 <p align="center">  
    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kulaizki&theme=great-gatsby&show_icons=true&border_color=0">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulaizki&theme=great-gatsby&border_color=fab000">

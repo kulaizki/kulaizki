@@ -12,7 +12,7 @@
 ### <pre>          🕸 Web Development | 🧪 Data Structures and Algorithms | 📊 Data Engineering </pre>
 
 ### ⚡ Interests:
-### <pre>      👨‍💻 Competitive Programming  |  ♟ Chess  |  🎹 Music  |  🧠 Cognition  |  👾 Learning</pre> <hr>
+### <pre>      👨‍💻 Competitive Programming  |  📈 Trading  |  🎹 Music  |  🧠 Cognition  |  👾 Learning</pre> <hr>
 
 ### ♦ Languages:
 

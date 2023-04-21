@@ -6,7 +6,7 @@
 
 ## 💬 About
 
-### 📧 Connect with me: fitzsixto.work@gmail.com <hr>
+### 📧 Connect with me: fitzsixto.work@gmail.com  <hr>
 
 ### ⚡ Learning:
 ### <pre>                  🕸 Web Development | 🧪 Data Science | 📊 Trading/Investments </pre>

@@ -9,7 +9,7 @@
 ### 📧 Connect with me: fitzsixto.work@gmail.com  <hr>
 
 ### ⚡ Learning:
-### <pre>                     🕸 Web Development | 🧪 Data Science | 📊 Algorithmic Trading </pre>
+### <pre>                   🕸 Web Development | 🧪 Data Science | 📊 Algorithmic Trading </pre>
 
 ### ⚡ Interests:
 ### <pre>            👨‍💻 Competitive Programming  |  🎹 Music  |  🧠 Cognition  |  👾 Learning</pre> <hr>

@@ -25,7 +25,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="50" height="50"/> </a>
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" width="50" height="50"/> </a>
-   <a href="https://www.tradingview.com/pine-script-docs/en/v5/concepts/Colors.html" target="_blank" rel="noreferrer"> <img src="https://www.tradingview.com/pine-script-docs/en/v5/_images/Pine_Script_logo_small.png" alt="pine-script" width="50" height="50"/> </a>
+<a href="https://www.tradingview.com/pine-script-docs/en/v5/concepts/Colors.html" target="_blank" rel="noreferrer"> <img src="https://www.tradingview.com/pine-script-docs/en/v5/_images/Pine_Script_logo_small.png" alt="pine-script" width="50" height="50"/> </a>
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" alt="solidity" width="50" height="50"/> </a>
    
 </p>
 <hr>

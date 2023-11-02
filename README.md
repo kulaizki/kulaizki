@@ -70,7 +70,7 @@
    <img src="https://leetcard.jacoblin.cool/kulaizki?border=0&radius=20&theme=light"><hr>
 </p>  -->
 <div align="center">  
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kulaizki&theme=great-gatsby&show_icons=true&border_color=0">
+<!--     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kulaizki&theme=great-gatsby&show_icons=true&border_color=0"> -->
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulaizki&theme=great-gatsby&border_color=fab000">
    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=fab000&bg_color=000000&text_color=f0f5f2&border_color=0"> 
 </div>

@@ -65,14 +65,20 @@
 <hr>
 
 ### ⭐ Stats
-<p align="left">
-   <img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> <hr>
-</p>
-<!-- <p align="center"> 
-   <img src="https://leetcard.jacoblin.cool/kulaizki?border=0&radius=20&theme=light"><hr>
-</p>  -->
-<div align="center">  
-<!--     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kulaizki&theme=great-gatsby&show_icons=true&border_color=0"> -->
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulaizki&theme=great-gatsby&border_color=fab000">
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kulaizki&layout=compact&title_color=fab000&bg_color=000000&text_color=f0f5f2&border_color=0"> 
+<div align="center">
+  <a href="https://github.com/ivanovich18">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=kulaizki&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=467"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/ivanovich18">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=kulaizki&show_icons=true&theme=dark&title_color=fff&text_color=fff&icon_color=fb8c00&include_all_commits=true&rank_icon=percentile"/>
+  </a>
+</div>
+
+<hr/>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ivanovich18&style=for-the-badge)
+  
 </div>

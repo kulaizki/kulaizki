@@ -11,7 +11,7 @@
 ### 📧 Connect with me: fitzsixto.work@gmail.com  <hr>
 
 ### ⚡ Learning:
-> ### <pre>                      📈 Business/Markets | 🕵️‍♀️ Cybersecurity </pre>
+> ### <pre>                      📈 Business/Markets | 🧬 Data Science </pre>
 
 ### ⚡ Interests:
 ### <pre>         👨‍💻 Competitive Programming  |  🎹 Music  |  🧠 Cognition  |  👾 Learning</pre> <hr>

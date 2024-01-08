@@ -78,3 +78,5 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=kulaizki&show_icons=true&theme=dark&title_color=fff&text_color=fff&icon_color=fb8c00&include_all_commits=true&rank_icon=percentile"/>
   </a>
 </div>
+
+3.141592653589793238

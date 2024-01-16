@@ -1,7 +1,3 @@
-<!-- <h1 align="center"> -->
-<!--    Greetings 👋, I'm Fitz -->
-<!-- </h1> -->
-
 ![header-final-cropped](https://github.com/kulaizki/kulaizki/assets/91787757/fcce7b6d-3d33-4eea-a043-1b55d86ea486)
 
 ![Contributions](https://user-images.githubusercontent.com/91787757/215253469-e3bbd1bd-941d-4da0-90c0-ae1d030c4143.svg)

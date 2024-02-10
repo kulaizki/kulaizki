@@ -63,7 +63,9 @@
 ### ⭐ Stats
 
 <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> <hr>
+   <img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=5f1dba&style=flat" alt="kulaizki" /> 
+   <img src="https://user-badge.committers.top/philippines/kulaizki.svg" />
+   <hr>
 </p>
 <div align="center">
   <a href="https://github.com/kulaizki">

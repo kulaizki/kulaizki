@@ -24,6 +24,7 @@
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" width="50" height="50"/> </a>
 <a href="https://www.tradingview.com/pine-script-docs/en/v5/concepts/Colors.html" target="_blank" rel="noreferrer"> <img src="https://leifcr.gallerycdn.vsassets.io/extensions/leifcr/pine-script-syntax-highlighting/0.1.5/1604668524342/Microsoft.VisualStudio.Services.Icons.Default" alt="pine-script" width="50" height="50"/> </a>
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" alt="solidity" width="50" height="50"/> </a>
+ <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/kulaizki/kulaizki/assets/91787757/960c612f-1431-4549-853a-42f7acb2fcaa" alt="ruby" width="50" height="50"/> </a>
 
 </p>
 <hr>

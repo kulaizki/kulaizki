@@ -31,6 +31,7 @@
 
 ### 🧬 Database/Frameworks:
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="50" height="50"/> </a> 
+<a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/kulaizki/kulaizki/assets/91787757/02e5ea79-5919-4ac8-8fe0-6163a22d05b7" alt="expo" width="50" height="50"/> </a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" width="50" height="50"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="60" height="50"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" alt="firebase" width="50" height="55"/> </a> 

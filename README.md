@@ -29,7 +29,7 @@
 </p>
 <hr>
 
-### 🧬 Database/Frameworks:
+### 🧬 Tech:
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="50" height="50"/> </a> 
 <a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/kulaizki/kulaizki/assets/91787757/02e5ea79-5919-4ac8-8fe0-6163a22d05b7" alt="expo" width="50" height="50"/> </a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" width="50" height="50"/> </a> 
@@ -46,7 +46,6 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="50" height="50"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="vstudio" width="55" height="55"/> </a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="vim" width="50" height="50"/> </a>
-<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png" alt="excel" width="50" height="50"/> </a>
 <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1200px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="google-sheets" width="40" height="50"/> </a>

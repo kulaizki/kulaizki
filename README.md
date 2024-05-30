@@ -29,7 +29,7 @@
 </p>
 <hr>
 
-### 🧬 Frameworks/DB:
+### 🧬 Frameworks/Libraries/DB:
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="50" height="50"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1258/1*okiCUvTUJLtOqJv1dMzwpA.png" alt="nextjs" width="50" height="50"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="50" height="40"/> </a>

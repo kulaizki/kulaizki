@@ -33,6 +33,7 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="50" height="50"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1258/1*okiCUvTUJLtOqJv1dMzwpA.png" alt="nextjs" width="50" height="50"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="50" height="40"/> </a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel" width="50" height="50"/> </a>
 <a href="https:https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" width="50" height="50"/> </a>
 <a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/kulaizki/kulaizki/assets/91787757/02e5ea79-5919-4ac8-8fe0-6163a22d05b7" alt="expo" width="50" height="50"/> </a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" width="50" height="50"/> </a> 

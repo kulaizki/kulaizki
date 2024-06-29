@@ -19,6 +19,7 @@
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="c#" width="45" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> </a> 
 <a href="https://www.typescriptlang.org/branding" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="50" height="50"/> </a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/dart-icon-1021x1024-0q8oyg7c.png" alt="dart" width="50" height="50"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="50" height="50"/> </a>
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" width="50" height="50"/> </a>

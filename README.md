@@ -6,7 +6,7 @@
 ### 💬 About
 <hr>
 
- ⚡ **Learning:** Machine Learning, Ethical Hacking, Full-stack Dev
+ ⚡ **Learning:** Machine Learning, Ethical Hacking, Blockchain Dev
  
  ⚡ **Interests:** Business/Markets, Competitive Programming, Cognitive/Experimental Psychology
 

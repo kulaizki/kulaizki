@@ -8,7 +8,7 @@
 
  ⚡ **Learning:** Machine Learning, Ethical Hacking, Blockchain Dev
  
- ⚡ **Interests:** Business/Markets, Competitive Programming, Cognitive/Experimental Psychology
+ ⚡ **Interests:** Business/Markets, Cognitive/Experimental Psychology
 
 <hr>
 

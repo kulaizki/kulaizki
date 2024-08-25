@@ -48,6 +48,7 @@
 ### ⚒ Tools/Tech:
 
 <!--<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="vstudio" width="55" height="55"/> </a>-->
+<a href="https://www.cursor.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b8f904c1-98d5-463b-90ed-e19eb3cd9121" alt="cursor" width="44" height="50"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="50" height="50"/> </a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="vim" width="50" height="50"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 

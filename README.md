@@ -6,7 +6,7 @@
 ### 💬 About
 <hr>
 
- ⚡ **Learning:** Machine Learning, Ethical Hacking, Blockchain Dev
+ ⚡ **Learning:** Reverse Engineering, Blockchain Dev, AI/ML
  
  ⚡ **Interests:** Business/Markets, Cognitive/Experimental Psychology
 

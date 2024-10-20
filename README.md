@@ -6,7 +6,7 @@
 ### 💬 About
 <hr>
 
- ⚡ **Learning:** Reverse Engineering, Blockchain Dev, AI/ML
+ ⚡ **Learning:** Reverse Engineering, FinTech, AI/ML
  
  ⚡ **Interests:** Business/Markets, Cognitive/Experimental Psychology
 

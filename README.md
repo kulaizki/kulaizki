@@ -69,7 +69,7 @@
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="canva" width="50" height="50"/> </a>
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerBI" width="50" height="50"/> </a>
 
-<hr>
+<!-- <hr> -->
 
 <!-- ### ⭐ Stats -->
 

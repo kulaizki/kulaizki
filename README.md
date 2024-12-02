@@ -12,7 +12,7 @@
 ### 💬 About
 <hr>
 
- ⚡ **Learning:** Reverse Engineering, FinTech, AI/ML
+ ⚡ **Learning:** Algorithmic Trading, FinTech, AI/ML
  
  ⚡ **Interests:** Business/Markets, Cognitive/Experimental Psychology
 

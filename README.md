@@ -4,7 +4,7 @@
 <!--  test  <hr> -->
 </p>
 
-![image](https://github.com/user-attachments/assets/acdb0c8b-7621-40bc-a4dd-b4f4b2560c2b)
+![fitz_banner](https://github.com/user-attachments/assets/1fab43ab-c470-4010-8a2d-a9f6735e15dc)
 
 <!-- ![header-final-cropped](https://github.com/kulaizki/kulaizki/assets/91787757/fcce7b6d-3d33-4eea-a043-1b55d86ea486) -->
 ### 📧 Connect with me: fitzsixto.work@gmail.com  <hr>

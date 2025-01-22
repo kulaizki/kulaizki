@@ -39,11 +39,11 @@
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/>
 </p>

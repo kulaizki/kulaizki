@@ -9,8 +9,8 @@
 
 ### 📧 Connect with Me
 **Email**: fitzsixto.work@gmail.com  
-**Portfolio**: [kulaizki.vercel.app](https://kulaizki.vercel.app/)  
-**LinkedIn**: [in/kulaizki](https://www.linkedin.com/in/kulaizki)  
+**Portfolio**: <a href="https://kulaizki.vercel.app/" target="_blank">kulaizki.vercel.app</a>  
+**LinkedIn**: <a href="https://www.linkedin.com/in/kulaizki" target="_blank">in/kulaizki</a>
 
 ---
 

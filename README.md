@@ -1,7 +1,8 @@
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kulaizki&label=Profile%20views&color=008cff&style=flat" alt="kulaizki" />
   <img src="https://user-badge.committers.top/philippines/kulaizki.svg" />
 </p>
+-->
 
 ![fitz_banner](https://github.com/user-attachments/assets/1fab43ab-c470-4010-8a2d-a9f6735e15dc)
 

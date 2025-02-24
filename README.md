@@ -17,7 +17,7 @@
 
 ### 💬 About
 
-- ⚡ **Learning**: Neurosci, AI/ML
+- ⚡ **Learning**: Computational Neuroscience, AI/ML
 - ⚡ **Interests**: Business/Markets/Trading, Cognitive/Experimental Psychology
 
 ---

@@ -17,8 +17,8 @@
 
 ### 💬 About
 
-- ⚡ **Learning**: Algorithmic Trading, FinTech, AI/ML
-- ⚡ **Interests**: Business/Markets, Cognitive/Experimental Psychology
+- ⚡ **Learning**: Neurosci, AI/ML
+- ⚡ **Interests**: Business/Markets/Trading, Cognitive/Experimental Psychology
 
 ---
 

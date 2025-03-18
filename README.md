@@ -17,8 +17,8 @@
 
 ### 💬 About
 
-- ⚡ **Learning**: Computational Neuroscience, AI/ML
-- ⚡ **Interests**: Business/Markets/Trading, Cognitive/Experimental Psychology
+- ⚡ **Learning**: Neuroscience, AI Agents
+- ⚡ **Interests**: Business/Markets/Trading, Meta-learning, Automation
 
 ---
 

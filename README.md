@@ -10,8 +10,8 @@
 
 ### 📧 Connect with Me
 **Email**: fitzsixto.work@gmail.com  
-**Portfolio**: <a href="https://kulaizki.vercel.app/" target="_blank">kulaizki.vercel.app</a>  
-**LinkedIn**: <a href="https://www.linkedin.com/in/kulaizki" target="_blank">in/kulaizki</a>
+**Portfolio**: [kulaizki.vercel.app](https://kulaizki.vercel.app/)  
+**LinkedIn**: [in/kulaizki](https://www.linkedin.com/in/kulaizki)
 
 ---
 
@@ -34,34 +34,46 @@
 
 ---
 
-### 🧬 Frameworks/Libraries/Databases
+### 🧰 Frameworks, Libraries, and Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
 </p>
 
 ---
 
-### ⚒️ Tools
+### 🚀 DevOps and Cloud Platforms
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
+</p>
+
+---
+
+### 🛠️ Tools and Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebook" width="50" height="50"/>
 </p>
-

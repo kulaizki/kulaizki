@@ -54,10 +54,10 @@
 ### 🚀 DevOps and Cloud Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" width="50" height="50"/>
 </p>
 
 ---

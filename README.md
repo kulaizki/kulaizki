@@ -26,7 +26,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/>

@@ -4,9 +4,9 @@
 </p>
 -->
 
-**Email**: fitzsixto.work@gmail.com  
 **Portfolio**: [fitzsixto.com](https://fitzsixto.com/)  
-**LinkedIn**: [in/kulaizki](https://www.linkedin.com/in/kulaizki)
+**LinkedIn**: [in/kulaizki](https://www.linkedin.com/in/kulaizki)   
+**Email**: fitzsixto.work@gmail.com  
 
 ---
 

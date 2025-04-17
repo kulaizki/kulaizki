@@ -4,25 +4,20 @@
 </p>
 -->
 
-![fitz_banner](https://github.com/user-attachments/assets/1fab43ab-c470-4010-8a2d-a9f6735e15dc)
-
----
-
-### 📧 Connect with Me
 **Email**: fitzsixto.work@gmail.com  
 **Portfolio**: [fitzsixto.com](https://fitzsixto.com/)  
 **LinkedIn**: [in/kulaizki](https://www.linkedin.com/in/kulaizki)
 
 ---
 
-### 💬 About
+### About
 
-- ⚡ **Learning**: Neuroscience, AI Agents
-- ⚡ **Interests**: Business/Markets/Trading, Meta-learning, Automation
+- **Learning**: Neuroscience, AI Agents
+- **Interests**: Business/Markets/Trading, Meta-learning, Automation
 
 ---
 
-### 🔥 Languages
+### Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
@@ -33,7 +28,7 @@
 
 ---
 
-### 🧰 Frameworks, Libraries, and Databases
+### Frameworks, Libraries, and Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
@@ -50,7 +45,7 @@
 
 ---
 
-### 🚀 DevOps and Cloud Platforms
+### DevOps and Cloud Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" width="50" height="50"/>
@@ -61,7 +56,7 @@
 
 ---
 
-### 🛠️ Tools and Platforms
+### Tools and Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>

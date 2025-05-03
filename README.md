@@ -6,7 +6,7 @@
 
 **Portfolio**: [fitzsixto.com](https://fitzsixto.com/)  
 **LinkedIn**: [in/kulaizki](https://www.linkedin.com/in/kulaizki)   
-**Email**: fitzsixto.work@gmail.com  
+**Email**: work@fitzsixto.com
 
 ---
 

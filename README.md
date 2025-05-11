@@ -12,7 +12,7 @@
 
 ### About
 
-- **Learning**: Neuroscience, AI Agents
+- **Learning**: Neuroimaging, Neuroinformatics
 - **Interests**: Business/Markets/Trading, Meta-learning, Automation
 
 ---

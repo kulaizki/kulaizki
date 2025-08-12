@@ -4,6 +4,8 @@
 </p>
 -->
 
+(lots of my current projects are private hehe, working with some cool big-name intl companies/clients under NDA)
+
 **Portfolio**: [fitzsixto.com](https://fitzsixto.com/)  
 **LinkedIn**: [in/kulaizki](https://www.linkedin.com/in/kulaizki)   
 **Email**: work@fitzsixto.com
